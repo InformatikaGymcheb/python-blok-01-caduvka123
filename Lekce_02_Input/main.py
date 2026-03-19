@@ -2,7 +2,7 @@
 # ÚLOHA 1: Registrace (jméno a město)
 # ==========================================
 # Sem napiš svůj kód:
-
+jmeno=input("Jak se jmenuješ?")
 
 # ==========================================
 # ÚLOHA 2: Jednoduchá kalkulačka (součet)
